@@ -45,6 +45,7 @@ def Game():
             print("\n")
             Game()
         else:
+            print("Thanks for playing!")
             exit()
     else:
         print("Your choice does not compute. Please try again.")
@@ -53,6 +54,7 @@ def Game():
             print("\n")
             Game()
         else:
+            print("Thanks for playing!")
             exit()
 
 
